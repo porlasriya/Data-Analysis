@@ -1,6 +1,5 @@
 # Eswatini IMF 2025–2026 – LLM Financial Analysis
 
-**Student ID:** 24155168  
 **Dataset:** IMF Country Report No. 26/260 (2026)
 
 ## Project Overview
